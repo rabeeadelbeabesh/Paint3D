@@ -23,6 +23,6 @@ Paint 3D Desktop Application has the following features.
     c- Cmake3<br>
     d- Microsoft Visual Studio 2022<br>
 <div>
-<a href="https://ibb.co/xLfS3n1"><img src="https://i.ibb.co/jfWvHCy/2024-02-15-1.png" alt="2024-02-15-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>touch gif</a><br />
+<a href="https://ibb.co/xLfS3n1"><img src="https://i.ibb.co/jfWvHCy/2024-02-15-1.png" border="0"></a><br/>
 </div>
     
