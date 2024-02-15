@@ -17,7 +17,7 @@ Paint 3D Desktop Application has the following features.
     b. Flip<br>
     c. Translate<br>
     d. Scale <br>
-  Tools used:<br>
+  6.Tools used:<br>
     a- VTK 9<br>
     b- QT6<br>
     c- Cmake3<br>
