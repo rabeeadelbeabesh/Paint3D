@@ -10,14 +10,14 @@ Paint 3D Desktop Application has the following features.
     g. Tube<br>
     h. Doughnut<br>
     i. Curved Cylinder <br>
-  3. Ability to add, edit, merge, and delete 3D objects
-  4. Ability to change the color and opacity of 3D objects 
-  5. Each 3D object has the transformation features:<br>
+  2. Ability to add, edit, merge, and delete 3D objects
+  3. Ability to change the color and opacity of 3D objects 
+  4. Each 3D object has the transformation features:<br>
     a. Rotate <br>
     b. Flip<br>
     c. Translate<br>
     d. Scale <br>
-  6. Tools used:<br>
+  5. Tools used:<br>
     a- VTK 9<br>
     b- QT6<br>
     c- Cmake3<br>
