@@ -1,6 +1,6 @@
 # Paint3D
 Paint 3D Desktop Application has the following features.
-  1. The 3D object should include a panel containing :<br>
+  1. The 3D object :<br>
     a. Cube<br>
     b. Sphere <br>
     c. Hemisphere<br>
