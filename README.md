@@ -12,8 +12,8 @@ Paint 3D Desktop Application has the following features.
     i. Curved Cylinder <br>
   3. Ability to add, edit, merge, and delete 3D objects
   4. Ability to change the color and opacity of 3D objects 
-  5. Each 3D object has the transformation features:
-    a. Rotate 
-    b. Flip
-    c. Translate
-    d. Scale
+  5. Each 3D object has the transformation features:<br>
+    a. Rotate <br>
+    b. Flip<br>
+    c. Translate<br>
+    d. Scale<br>
