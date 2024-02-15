@@ -16,7 +16,7 @@ Paint 3D Desktop Application has the following features.
     a. Rotate <br>
     b. Flip<br>
     c. Translate<br>
-    d. Scale<br><br>
+    d. Scale
   Tools used:<br>
     a- VTK 9<br>
     b- QT6<br>
