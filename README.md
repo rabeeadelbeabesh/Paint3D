@@ -16,4 +16,10 @@ Paint 3D Desktop Application has the following features.
     a. Rotate <br>
     b. Flip<br>
     c. Translate<br>
-    d. Scale<br>
+    d. Scale<br><br>
+    
+Tools used:<br>
+  a- VTK 9<br>
+  b- QT6<br>
+  c- Cmake3<br>
+  d- Microsoft Visual Studio 2022<br>
